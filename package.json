@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-nebenan-import-remove-resource-query",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove the resourceQuery param when importing modules via babel. Useful with Jest, that doesn't support resourceQueries",
   "main": "src/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hkjorgensen/babel-plugin-import-remove-resource-query.git"
+    "url": "git+https://github.com/goodhood-eu/babel-plugin-import-remove-resource-query.git"
   },
   "keywords": [
     "babel",
@@ -27,7 +27,7 @@
     "jest",
     "mocha"
   ],
-  "author": "Henrik J <henrikj@me.com>",
+  "author": "Nebenan.de <rafik@nebenan.de>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hkjorgensen/babel-plugin-import-remove-resource-query/issues"
